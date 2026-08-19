@@ -120,10 +120,10 @@ header {
 
 .menu {
 
-    display: -webkit-inline-flex;
+    display: flex;
 
-    justify-content: left;
-    align-items: left;
+    justify-content: center;
+    align-items: center;
 
     gap: 18px;
 
@@ -140,9 +140,9 @@ header {
 
 .menu li {
 
-    display: -webkit-inline-flex;
+    display: flex;
 
-    align-items: lefts;
+    align-items: center;
 }
 
 
@@ -802,7 +802,7 @@ footer p {
     45% {
 
         background-image:
-            url("images/kv1.jpg");
+            url("kv1.jpg");
 
         transform: scale(1);
 
@@ -812,7 +812,7 @@ footer p {
     95% {
 
         background-image:
-            url("images/kv2.jpg");
+            url("kv2.jpg/kv2.jpg");
 
         transform: scale(1.04);
 
