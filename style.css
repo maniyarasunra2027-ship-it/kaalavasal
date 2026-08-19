@@ -802,7 +802,7 @@ footer p {
     45% {
 
         background-image:
-            url("kv1.jpg");
+            url("kv1.jpg.png	");
 
         transform: scale(1);
 
@@ -812,7 +812,7 @@ footer p {
     95% {
 
         background-image:
-            url("kv2.jpg/kv2.jpg");
+            url("kv2.jpg.png	");
 
         transform: scale(1.04);
 
@@ -820,8 +820,7 @@ footer p {
 
     100% {
 
-        background-image:
-            url("images/kv1.jpg");
+       background-image: url("kv2.jpg.png	");
 
         transform: scale(1);
 
